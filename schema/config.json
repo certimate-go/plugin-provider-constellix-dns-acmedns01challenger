@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "constellix-dns",
+  "category": "apply",
+  "schema": {
+    "columns": []
+  }
+}

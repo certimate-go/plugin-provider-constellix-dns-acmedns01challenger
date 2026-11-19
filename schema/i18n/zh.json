@@ -1,0 +1,10 @@
+{
+  "plugin.constellix-dns.name": "Constellix",
+  "plugin.constellix-dns.description": "通过 Constellix 完成 ACME DNS-01 验证。",
+  "plugin.constellix-dns.access.apiKey.label": "Constellix API Key",
+  "plugin.constellix-dns.access.apiKey.tooltip": "这是什么？请参阅 <a href=\"https://support.constellix.com/hc/en-us/articles/34574197390491-How-to-Generate-an-API-Key\" target=\"_blank\">https://support.constellix.com/hc/en-us/articles/34574197390491-How-to-Generate-an-API-Key</a>",
+  "plugin.constellix-dns.access.apiKey.placeholder": "请输入 Constellix API Key",
+  "plugin.constellix-dns.access.secretKey.label": "Constellix Secret Key",
+  "plugin.constellix-dns.access.secretKey.tooltip": "这是什么？请参阅 <a href=\"https://support.constellix.com/hc/en-us/articles/34574197390491-How-to-Generate-an-API-Key\" target=\"_blank\">https://support.constellix.com/hc/en-us/articles/34574197390491-How-to-Generate-an-API-Key</a>",
+  "plugin.constellix-dns.access.secretKey.placeholder": "请输入 Constellix Secret Key"
+}

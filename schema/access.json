@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "constellix",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "apiKey",
+        "valueType": "text",
+        "labelKey": "plugin.constellix-dns.access.apiKey.label",
+        "tooltipKey": "plugin.constellix-dns.access.apiKey.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.constellix-dns.access.apiKey.placeholder",
+        "required": true
+      },
+      {
+        "name": "secretKey",
+        "valueType": "secret",
+        "labelKey": "plugin.constellix-dns.access.secretKey.label",
+        "tooltipKey": "plugin.constellix-dns.access.secretKey.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.constellix-dns.access.secretKey.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

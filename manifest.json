@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "constellix",
+  "binary": "constellix-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Constellix.",
+  "display_name_key": "plugin.constellix-dns.name",
+  "icon": "icon.png",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "constellix-dns",
+  "provider_aliases": [
+    "constellix"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

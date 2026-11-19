@@ -1,0 +1,10 @@
+{
+  "plugin.constellix-dns.name": "Constellix",
+  "plugin.constellix-dns.description": "ACME DNS-01 via Constellix.",
+  "plugin.constellix-dns.access.apiKey.label": "Constellix API key",
+  "plugin.constellix-dns.access.apiKey.tooltip": "For more information, see <a href=\"https://support.constellix.com/hc/en-us/articles/34574197390491-How-to-Generate-an-API-Key\" target=\"_blank\">https://support.constellix.com/hc/en-us/articles/34574197390491-How-to-Generate-an-API-Key</a>",
+  "plugin.constellix-dns.access.apiKey.placeholder": "Please enter Constellix API key",
+  "plugin.constellix-dns.access.secretKey.label": "Constellix API secret key",
+  "plugin.constellix-dns.access.secretKey.tooltip": "For more information, see <a href=\"https://support.constellix.com/hc/en-us/articles/34574197390491-How-to-Generate-an-API-Key\" target=\"_blank\">https://support.constellix.com/hc/en-us/articles/34574197390491-How-to-Generate-an-API-Key</a>",
+  "plugin.constellix-dns.access.secretKey.placeholder": "Please enter Constellix API secret key"
+}
